@@ -23,7 +23,12 @@ The design specifications for the MechaCar suspension coils dictate that the var
 I would say no because only three lots  came up meeting the requirments.
 
 ## T-Tests on Suspension Coils
-<img width="433" alt="Screen Shot 2022-10-11 at 5 36 41 PM" src="https://user-images.githubusercontent.com/107597779/195223049-568f137b-9438-45b1-92f6-911b0fc2b892.png">
-<img width="414" alt="Screen Shot 2022-10-11 at 5 37 10 PM" src="https://user-images.githubuserc<img width="499" alt="Screen Shot 2022-10-11 at 5 36 28 PM" src="https://user-images.githubusercontent.com/107597779/195223088-5dfe89b5-0e41-4126-80e1-54e5500c3b3d.png">
-ontent.com/107597779/195223054-65a1db5c-fb56-42c9-b5cf-e75cd4a57dd5.png">
+<img width="433" alt="Screen Shot 2022-10-11 at 5 36 41 PM" src="https://user-images.githubusercontent.com/107597779/195223235-bf352262-d498-4d5d-a38c-a3894251f74b.png">
+
+<img width="414" alt="Screen Shot 2022-10-11 at 5 37 10 PM" src="https://user-images.githubusercontent.com/107597779/195223255-faf169eb-7b8d-43d5-8ef1-1be5b5072bc1.png">
+
+<img width="499" alt="Screen Shot 2022-10-11 at 5 36 28 PM" src="https://user-images.githubusercontent.com/107597779/195223265-03cbb747-0940-4ba9-bbb7-10a5ba96127e.png">
+
+
+## Study Design: MechaCar vs Competition
 
