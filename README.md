@@ -32,3 +32,15 @@ I would say no because only three lots  came up meeting the requirments.
 
 ## Study Design: MechaCar vs Competition
 
+What metric or metrics are you going to test?
+ I would use MPG and cost of the vehicle
+ 
+What is the null hypothesis or alternative hypothesis?
+Does the MPG determine the cost of teh vehicle 
+
+What statistical test would you use to test the hypothesis? And why?
+
+I would use a bar grapgh to see if a car gets more MOG does it cost more 
+
+What data is needed to run the statistical test?
+I would need different types of cars, their average MPG and the MSRP price
