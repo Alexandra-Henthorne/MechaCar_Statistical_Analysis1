@@ -12,3 +12,10 @@ No because the p-value is greater than .05
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 I want to say yes becayse the r value is showing that 70 percent of the data is being used I believe
+
+Deliverable 2 Requirements
+<img width="647" alt="Screen Shot 2022-10-11 at 5 31 21 PM" src="https://user-images.githubusercontent.com/107597779/195222467-4b10b747-41b9-498d-84d4-321f8c82bc45.png">
+<img width="531" alt="Screen Shot 2022-10-11 at 5 31 51 PM" src="https://user-images.githubusercontent.com/107597779/195222479-cafb1375-2f0a-495a-b2f5-2a49235edd71.png">
+
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
