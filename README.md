@@ -7,4 +7,8 @@ Which variables/coefficients provided a non-random amount of variance to the mpg
 
 Is the slope of the linear model considered to be zero? Why or why not?
 
+No because the p-value is greater than .05 
+
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+I want to say yes becayse the r value is showing that 70 percent of the data is being used I believe
